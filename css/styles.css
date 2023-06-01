@@ -52,9 +52,12 @@ button {
 
 .container {
   width: 1200px;
-  height: px;
   margin: 0 auto;
   padding: 0px 15px;
+}
+
+.header {
+  border: 1px solid #ECECEC
 }
 
 .header-list {
@@ -300,12 +303,20 @@ button {
     cursor: pointer;
     letter-spacing: 0.03em;
     list-style-type: none;
+    padding: 6px 25px 6px 25px;
   }
 
 
 .button-portfolio:hover {
   background-color: #2196F3;
   color: #FFFFFF
+}
+
+.button-list {
+  gap: 8px;
+  justify-content: center;
+  display: flex;
+  padding-top: 94px;
 }
 .h3-portfolio {
   font-family: 'Roboto';
@@ -324,6 +335,19 @@ button {
     line-height: 1.88;
     letter-spacing: 0.03em;
     color: #757575;
+}
+
+.portfolio-main {
+  flex-wrap: wrap;
+  gap: 40px;
+  justify-content: center;
+  display: flex;
+  margin-top: 50px;
+  padding-bottom: 94px;
+}
+
+.portfolio-item {
+    border: 1px solid #EEEEEE;
 }
 
 .logo-bottom {
