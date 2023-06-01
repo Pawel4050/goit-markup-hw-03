@@ -200,10 +200,27 @@ button {
     text-align: center;
     letter-spacing: 0.03em;
     padding-bottom: 50px;
+    padding-top: 94px;
+
 }
 
 .team {
   background: #F5F4FA
+}
+
+.team-list {
+  list-style-type: none;
+    display: flex;
+    margin-left: auto;
+    gap: 30px;
+    padding-bottom: 94px;
+}
+
+.team-box {
+  text-align: center;
+    background: #ffffff;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 0px 4px 4px;
 }
 
 .team-names {
@@ -212,6 +229,7 @@ button {
   font-size: 16px;
   line-height: 1.18;
   letter-spacing: 0.03em;
+  padding-top: 30px;
 }
 
 .team-role {
@@ -221,10 +239,13 @@ button {
   line-height: 1.18;
   letter-spacing: 0.03em;
   color: #757575;
+  padding-top: 10px;
+  padding-bottom: 30px;
 }
 
 .footer {
   background: #2F303A;
+  padding-top: 60px;
 }
 
 .footer-logo-studio {
@@ -300,4 +321,15 @@ button {
     line-height: 1.88;
     letter-spacing: 0.03em;
     color: #757575;
+}
+
+.logo-bottom {
+  font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+    text-decoration: none;
 }
