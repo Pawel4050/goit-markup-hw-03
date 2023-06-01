@@ -245,7 +245,7 @@ button {
 
 .footer {
   background: #2F303A;
-  padding-top: 60px;
+  padding: 60px;
 }
 
 .footer-logo-studio {
@@ -282,6 +282,9 @@ button {
   color: #2196F3;
 }
 
+.footer-li {
+  margin-bottom: 9px;
+}
 
 
 .button-portfolio {
@@ -332,4 +335,4 @@ button {
     letter-spacing: 0.03em;
     color: #2196F3;
     text-decoration: none;
-}
+} 
