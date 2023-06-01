@@ -339,15 +339,18 @@ button {
 
 .portfolio-main {
   flex-wrap: wrap;
-  gap: 40px;
-  justify-content: center;
   display: flex;
+  justify-content: center;
   margin-top: 50px;
-  padding-bottom: 94px;
+  gap: 30px;
+  padding-bottom: 94px;  
 }
 
-.portfolio-item {
-    border: 1px solid #EEEEEE;
+.portfolio-item-descr {
+  border-left: 1px solid #eee;
+    border-right: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    padding: 20px 24px;
 }
 
 .logo-bottom {
