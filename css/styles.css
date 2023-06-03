@@ -217,9 +217,7 @@ button {
 }
 
 .team-list {
-  list-style-type: none;
     display: flex;
-    margin-left: auto;
     gap: 30px;
 }
 
@@ -230,13 +228,16 @@ button {
     border-radius: 0px 0px 4px 4px;
 }
 
+.descr {
+  padding: 30px;
+}
+
 .team-names {
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.18;
   letter-spacing: 0.03em;
-  padding-top: 30px;
 }
 
 .team-role {
@@ -246,13 +247,12 @@ button {
   line-height: 1.18;
   letter-spacing: 0.03em;
   color: #757575;
-  padding-top: 10px;
-  padding-bottom: 30px;
+  margin-top: 10px;
 }
 
 .footer {
   background: #2F303A;
-  padding: 60px;
+  padding: 60px 0;
 }
 
 .footer-logo-studio {
@@ -348,6 +348,10 @@ button {
   margin-top: 50px;
   gap: 30px;
   padding-bottom: 94px;  
+}
+
+.section-portfolio {
+  padding: 94px 0;
 }
 
 .portfolio-item-descr {
