@@ -320,7 +320,6 @@ button {
   gap: 8px;
   justify-content: center;
   display: flex;
-  padding-top: 94px;
 }
 .h3-portfolio {
   font-family: 'Roboto';
@@ -347,7 +346,6 @@ button {
   justify-content: center;
   margin-top: 50px;
   gap: 30px;
-  padding-bottom: 94px;  
 }
 
 .section-portfolio {
