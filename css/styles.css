@@ -1,0 +1,206 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+:root {
+    --brand-color:#2E2F42;
+    --slate-color:#434455;
+    --activate-color: #4D5AE5;
+    --ocean: #404BBF;
+}
+
+.logo-link {
+    text-decoration: none;
+    font-family: Raleway;
+        font-size: 18px;
+        font-weight: 800;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-align: left;
+        color: var(--brand-color);
+}
+.logo-web {
+        color: #4D5AE5;
+}
+
+.site-nav {
+    list-style: none;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: left;
+        color: var(--brand-color)
+}
+
+.link-nav {
+    text-decoration: none;
+    color: var(--brand-color);
+}
+
+.link-nav:hover,
+.link-nav:focus {
+        color: var(--activate-color);
+}
+
+.contact {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: left;
+        color: var(--slate-color);
+        text-decoration: none;
+        font-style: normal;
+}
+
+.contact:hover,
+.contact:focus {
+        color: var(--activate-color);
+}
+
+.section1 {
+        background-color: var(--brand-color);
+}
+.motto {
+        font-size: 56px;
+        font-weight: 700;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #FFFFFF;
+}
+
+.order-service-button {
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        text-align: left;
+        color: #FFFFFF;
+        background-color: #4D5AE5;
+        cursor: pointer;
+}
+
+.section2-list {
+        list-style: none;
+}
+
+.strategy {
+                font-size: 20px;
+                font-weight: 500;
+                line-height: 1.2;
+                letter-spacing: 0.02em;
+                text-align: left;
+                color: var(--brand-color);
+}
+
+.section2-describe {
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 1.5;
+                letter-spacing: 0.02em;
+                text-align: left;
+                color: var(--slate-color);
+}
+
+.head2 {
+                font-size: 36px;
+                font-weight: 700;
+                line-height: 1.11;
+                letter-spacing: 0.02em;
+                text-align: center;
+                color: var(--brand-color);
+}
+.we-doing {
+        list-style: none;
+}
+
+.team-list {
+        list-style: none;
+}
+
+.team-names {
+                font-size: 20px;
+                font-weight: 500;
+                line-height: 1.2;
+                letter-spacing: 0.02em;
+                text-align: center;
+                color: var(--brand-color);
+}
+
+.team-descr {
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 1.5;
+                letter-spacing: 0.02em;
+                text-align: center;
+                color: var(--slate-color);
+}
+
+.footer {
+        background-color: var(--brand-color);
+}
+
+.logo-link-footer {
+        text-decoration: none;
+                font-family: Raleway;
+                font-size: 18px;
+                font-weight: 800;
+                line-height: 1.17;
+                letter-spacing: 0.03em;
+                text-align: left;
+        color: #F4F4FD;
+}
+
+.text-footer {
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 1.5;
+                letter-spacing: 0.02em;
+                text-align: left;
+                color: #F4F4FD;
+}
+
+.buttons-list {
+        list-style: none;
+}
+
+.menu-button {
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.04em;
+text-align: center;
+color:#4D5AE5;
+background-color: #E7E9FC;
+cursor: pointer;
+}
+
+.menu-button:hover,
+.menu-button:active {
+        color: #FFFFFF;
+        background-color: var(--ocean);
+}
+
+.portfolio-list {
+        list-style: none;
+}
+
+.header3 {
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: left;
+color: var(--brand-color);
+}
+
+.header4 {
+font-size: 16px;
+font-weight: 400;
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: left;
+color: var(--slate-color);
+}
