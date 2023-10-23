@@ -9,6 +9,10 @@ body {
     --ocean: #404BBF;
 }
 
+.head {
+        width: 1440px;
+height: 72px;
+}
 .logo-link {
     text-decoration: none;
     font-family: Raleway;
