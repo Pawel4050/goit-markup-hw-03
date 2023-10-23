@@ -13,6 +13,8 @@ body {
         width: 1440px;
 height: 72px;
 display: flex;
+align-items: center;
+
 }
 .logo-link {
     text-decoration: none;
@@ -23,7 +25,6 @@ display: flex;
         letter-spacing: 0.03em;
         text-align: left;
         color: var(--brand-color);
-        height: 21px;
 }
 .logo-web {
         color: #4D5AE5;
@@ -31,7 +32,6 @@ display: flex;
 
 .nav-box {
         width: 261px;
-        height: 24px;
 }
 .site-nav {
     list-style: none;
@@ -42,6 +42,8 @@ display: flex;
         text-align: left;
         color: var(--brand-color);
         display: flex;
+        justify-content: space-between;
+        padding-left: 0;
         
 }
 
