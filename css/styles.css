@@ -12,6 +12,7 @@ body {
 .head {
         width: 1440px;
 height: 72px;
+display: flex;
 }
 .logo-link {
     text-decoration: none;
@@ -27,6 +28,10 @@ height: 72px;
         color: #4D5AE5;
 }
 
+.nav-box {
+        width: 261px;
+        height: 24px;
+}
 .site-nav {
     list-style: none;
         font-size: 16px;
@@ -34,7 +39,9 @@ height: 72px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         text-align: left;
-        color: var(--brand-color)
+        color: var(--brand-color);
+        display: flex;
+        
 }
 
 .link-nav {
