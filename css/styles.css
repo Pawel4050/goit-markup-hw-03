@@ -9,6 +9,9 @@ body {
     --ocean: #404BBF;
 }
 
+.container {
+        width: 1158px;
+}
 .head {
         width: 1440px;
 height: 72px;
@@ -43,7 +46,7 @@ padding: 0 156px;
         text-align: left;
         color: var(--brand-color);
         display: flex;
-        justify-content: space-between;
+        gap: 40px;
         padding-left: 0;
         
 }
