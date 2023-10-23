@@ -13,11 +13,9 @@ body {
         width: 1158px;
 }
 .head {
-        width: 1440px;
 height: 72px;
 display: flex;
 align-items: center;
-padding: 0 156px;
 
 }
 .logo-link {
