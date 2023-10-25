@@ -18,11 +18,14 @@ img {
 }
 .head {
 height: 72px;
-display: flex;
 align-items: center;
 border-bottom: 1px solid #e7e9fc;
-
 }
+
+.cont {
+        display: flex;
+}
+
 .logo-link {
     text-decoration: none;
     font-family: Raleway;
