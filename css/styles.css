@@ -251,6 +251,7 @@ padding-bottom: 120px;
 
 .footer {
         background-color: var(--brand-color);
+        padding: 100px 0;
 }
 
 .logo-link-footer {
