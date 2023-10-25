@@ -15,6 +15,7 @@ img {
       
 .container {
         width: 1158px;
+        margin: 0 auto;
 }
 .head {
 height: 72px;
