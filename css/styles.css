@@ -282,6 +282,9 @@ padding-bottom: 120px;
 }
 .buttons-list {
         list-style: none;
+        display: flex;
+        justify-content: center;
+        gap: 24px;
 }
 
 .menu-button {
