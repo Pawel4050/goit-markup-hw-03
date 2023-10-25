@@ -24,13 +24,13 @@ img {
         padding: 0 15px 0 15px
 }
 .head {
-height: 72px;
-align-items: center;
+
 border-bottom: 1px solid #e7e9fc;
 }
 
 .cont {
         display: flex;
+        
 }
 
 .logo-link {
