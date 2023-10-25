@@ -217,6 +217,13 @@ padding-bottom: 120px;
 
 .team-list {
         list-style: none;
+        display: flex;
+        gap: 24px;
+}
+
+.team-li {
+        width: calc((100% - 72px) / 4);
+        border-radius: 0px 0px 4px 4px;
 }
 
 .team-names {
