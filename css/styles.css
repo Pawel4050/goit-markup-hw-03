@@ -186,6 +186,10 @@ border-bottom: 1px solid #e7e9fc;
                 text-align: center;
                 color: var(--brand-color);
 }
+
+.section-three {
+padding-bottom: 120px;
+}
 .we-doing {
         list-style: none;
 }
