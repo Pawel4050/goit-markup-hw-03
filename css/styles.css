@@ -178,13 +178,14 @@ border-bottom: 1px solid #e7e9fc;
                 color: var(--slate-color);
 }
 
-.head2 {
+.head-two {
                 font-size: 36px;
                 font-weight: 700;
                 line-height: 1.11;
                 letter-spacing: 0.02em;
                 text-align: center;
                 color: var(--brand-color);
+                margin-bottom: 72px;
 }
 
 .section-three {
