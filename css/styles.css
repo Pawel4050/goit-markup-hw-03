@@ -71,6 +71,7 @@ border-bottom: 1px solid #e7e9fc;
 .link-nav {
     text-decoration: none;
     color: var(--brand-color);
+    padding: 24px 0;
 }
 
 .link-nav:hover,
