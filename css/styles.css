@@ -116,6 +116,7 @@ border-bottom: 1px solid #e7e9fc;
         letter-spacing: 0.02em;
         text-align: center;
         color: #FFFFFF;
+        max-width: 496px;
 }
 
 .order-service-button {
