@@ -303,7 +303,8 @@ border-radius: 4px;
 }
 
 .menu-button:hover,
-.menu-button:active {
+.menu-button:active,
+.menu-button:focus {
         color: #FFFFFF;
         background-color: var(--ocean);
         border: 1px solid transparent;
