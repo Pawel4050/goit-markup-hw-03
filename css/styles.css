@@ -205,6 +205,16 @@ padding-bottom: 120px;
         padding: 120px 0;
 }
 
+.s-four-header {
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: var(--brand-color);
+        margin-bottom: 72px;
+}
+
 .team-list {
         list-style: none;
 }
