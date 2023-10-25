@@ -201,6 +201,10 @@ padding-bottom: 120px;
         width: calc((100% - 48px) / 3);    
 }
 
+.section-four {
+        padding: 120px 0;
+}
+
 .team-list {
         list-style: none;
 }
