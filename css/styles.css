@@ -9,6 +9,11 @@ body {
     --ocean: #404BBF;
 }
 
+img {
+        display: block;
+      }
+      
+
 .container {
         width: 1158px;
 }
