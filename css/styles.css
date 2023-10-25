@@ -42,14 +42,17 @@ border-bottom: 1px solid #e7e9fc;
         letter-spacing: 0.03em;
         text-align: left;
         color: var(--brand-color);
+        margin-right: 76px;
 }
 .logo-web {
         color: #4D5AE5;
 }
 
+.nav {
+        align-items: center;
+}
 .nav-box {
         display: flex;
-        align-items: center;
 }
 .site-nav {
     list-style: none;
