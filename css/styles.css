@@ -49,6 +49,7 @@ border-bottom: 1px solid #e7e9fc;
 
 .nav-box {
         display: flex;
+        align-items: center;
 }
 .site-nav {
     list-style: none;
