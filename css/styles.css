@@ -277,6 +277,9 @@ padding-bottom: 120px;
                 max-width: 264px;
 }
 
+.section-portfolio {
+        padding-top: 96px; padding-bottom: 120px;
+}
 .buttons-list {
         list-style: none;
 }
