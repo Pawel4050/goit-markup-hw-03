@@ -298,13 +298,15 @@ color:#4D5AE5;
 background-color: #E7E9FC;
 cursor: pointer;
 padding: 12px 24px;
-border: 1px solid #e7e9fc
+border: 1px solid #e7e9fc;
+border-radius: 4px;
 }
 
 .menu-button:hover,
 .menu-button:active {
         color: #FFFFFF;
         background-color: var(--ocean);
+        border: 1px solid transparent;
 }
 
 .portfolio-list {
