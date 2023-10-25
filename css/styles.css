@@ -101,14 +101,11 @@ border-bottom: 1px solid #e7e9fc;
         color: var(--activate-color);
 }
 
-.section1 {
+.section-one {
         background-color: var(--brand-color);
-}
-
-.second-class {
         padding: 188px 0;
-
 }
+
 .motto {
         font-size: 56px;
         font-weight: 700;
