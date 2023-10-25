@@ -141,6 +141,10 @@ border-bottom: 1px solid #e7e9fc;
         gap: 24px;
 }
 
+.s-two-li {
+        flex-basis: calc((100% - 3 * 24px) / 4);
+}
+
 .strategy {
                 font-size: 20px;
                 font-weight: 500;
