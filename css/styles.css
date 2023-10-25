@@ -13,9 +13,6 @@ img {
         display: block;
       }
       
-.border-b {
-        border-bottom: 1px solid #e7e9fc;
-}
 .container {
         width: 1158px;
 }
@@ -23,6 +20,7 @@ img {
 height: 72px;
 display: flex;
 align-items: center;
+border-bottom: 1px solid #e7e9fc;
 
 }
 .logo-link {
